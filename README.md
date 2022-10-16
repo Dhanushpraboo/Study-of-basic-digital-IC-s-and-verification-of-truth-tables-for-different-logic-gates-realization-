@@ -82,9 +82,9 @@ endmodule
 TT
 ![out](1.jpg)
 
-Output:
+## Output:
 RTL
 ![out](2.jpg)
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
